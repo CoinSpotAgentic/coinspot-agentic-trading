@@ -1,0 +1,16 @@
+{
+  "name": "coinspot-agentic-trading",
+  "version": "0.1.0",
+  "description": "OpenClaw agentic trading skill for CoinSpot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+  },
+  "dependencies": {
+    "coinspot-sdk-nodejs": "git@github.com:CoinSpotAgentic/coinspot-sdk-nodejs.git:main"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
