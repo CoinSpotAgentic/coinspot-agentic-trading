@@ -7,7 +7,7 @@
   "scripts": {
   },
   "dependencies": {
-    "coinspot-sdk-nodejs": "git@github.com:CoinSpotAgentic/coinspot-sdk-nodejs.git:main"
+    "coinspot-sdk-nodejs": "github:CoinSpotAgentic/coinspot-sdk-nodejs#main"
   },
   "engines": {
     "node": ">=18.0.0"
